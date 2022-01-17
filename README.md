@@ -4,3 +4,5 @@
 + **94. Binary Tree Inorder Traversal**
   + Recursion https://github.com/xdnyb/Leetcode/blob/main/Problems/94Recursion.py
   + Iteration https://github.com/xdnyb/Leetcode/blob/main/Problems/94Iteration.py
++ **144. Binary Tree Preorder Traversal**
+  + Recursion
