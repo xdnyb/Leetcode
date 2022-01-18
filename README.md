@@ -6,3 +6,4 @@
   + Iteration [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/94Iteration.py)
 + **144. Binary Tree Preorder Traversal**
   + Recursion [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/144Recursion.py)
+  + Iteration [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/144Iteration.py)
