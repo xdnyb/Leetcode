@@ -8,6 +8,6 @@
   + Recursion [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/144Recursion.py)
   + Iteration [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/144Iteration.py)
 +  **145. Binary Tree Postorder Traversal**
-  +  Recursion [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/145Recursion.py)
+  + Recursion [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/145Recursion.py)
 +  **429. N-ary Tree Level Order Traversal**
-  +  Recursion [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/429Recursion.py)
+  + Recursion [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/429Recursion.py)
