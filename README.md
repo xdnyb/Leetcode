@@ -6,8 +6,7 @@
 
 [Algorithm I](#algorithm-i)
 
----
-### Tree
+## Tree
 + **94. Binary Tree Inorder Traversal**
   + Recursion [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/94Recursion.py)
   + Iteration [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/94Iteration.py)
@@ -19,8 +18,7 @@
 + **429. N-ary Tree Level Order Traversal**
   + Recursion [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/429Recursion.py)
 
----
-### Algorithm I
+## Algorithm I
 + **Day 1 Binary Search**
   + 704\. Binary Search
   + 278\. First Bad Version
