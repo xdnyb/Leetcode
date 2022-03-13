@@ -2,9 +2,9 @@
 
 打算先按[这个](https://zxi.mytechroad.com/blog/leetcode-problem-categories/)做
 
-已摆烂：[树](#Tree)
+已摆烂：[树](#tree)
 
-[Algorithm I](#Algorithm I)
+[Algorithm I](#algorithm-i)
 
 ===
 ### Tree
