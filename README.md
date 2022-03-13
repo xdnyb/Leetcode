@@ -40,7 +40,7 @@
   + 695\. Max Area of Island
 + **Day 8 Breadth-First Search / Depth-First Search**
   + 617\. Mearge Two Binary Trees
-  + 116\. Populating Next Right Pointers in Each Node
+  + 116\. Populating Next Right Pointers in Each Node [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/116.py)
 + **Day 9 Breadth-First Search / Depth-First Search**
   + 524\. 01 Matrix
   + 994\. Rotting Oranges
