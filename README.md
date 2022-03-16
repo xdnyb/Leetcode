@@ -46,7 +46,7 @@
   + 994\. Rotting Oranges [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/994.py)
 + **Day 10 Recursion / Backtracking**
   + 21\. Merge Two Sorted Lists
-  + 206\. Reverse Linked List
+  + 206\. Reverse Linked List [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/206.py)
 + **Day 11 Recursion / Backtracking**
   + 77\. Combinations
   + 46\. Permutations
