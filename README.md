@@ -43,7 +43,7 @@
   + 116\. Populating Next Right Pointers in Each Node [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/116.py)
 + **Day 9 Breadth-First Search / Depth-First Search**
   + 542\. 01 Matrix [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/542.py)
-  + 994\. Rotting Oranges
+  + 994\. Rotting Oranges [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/994.py)
 + **Day 10 Recursion / Backtracking**
   + 21\. Merge Two Sorted Lists
   + 206\. Reverse Linked List
