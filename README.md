@@ -48,7 +48,7 @@
   + 21\. Merge Two Sorted Lists
   + 206\. Reverse Linked List [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/206.py)
 + **Day 11 Recursion / Backtracking**
-  + 77\. Combinations
+  + 77\. Combinations [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/77.py)
   + 46\. Permutations
   + 784\. Letter Case Permutation
 + **Day 12 Dynamic Programming**
