@@ -52,7 +52,7 @@
   + 46\. Permutations [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/46.py)
   + 784\. Letter Case Permutation
 + **Day 12 Dynamic Programming**
-  + 70\. Climbing Stairs
+  + 70\. Climbing Stairs [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/70.py)
   + 108\. House Robber
   + 120\. Triangle
 + **Day 13 Bit Manipulation**
