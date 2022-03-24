@@ -53,7 +53,7 @@
   + 784\. Letter Case Permutation
 + **Day 12 Dynamic Programming**
   + 70\. Climbing Stairs [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/70.py)
-  + 108\. House Robber
+  + 198\. House Robber [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/198.py)
   + 120\. Triangle
 + **Day 13 Bit Manipulation**
   + 231\. Power of Two
