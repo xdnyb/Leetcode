@@ -56,7 +56,7 @@
   + 198\. House Robber [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/198.py)
   + 120\. Triangle
 + **Day 13 Bit Manipulation**
-  + 231\. Power of Two
+  + 231\. Power of Two [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/231.py)
   + 191\. Number of 1 Bits
 + **Day 14 Bit Manipulation**
   + 190\. Reverse Bits
