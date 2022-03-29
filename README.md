@@ -57,7 +57,7 @@
   + 120\. Triangle
 + **Day 13 Bit Manipulation**
   + 231\. Power of Two [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/231.py)
-  + 191\. Number of 1 Bits
+  + 191\. Number of 1 Bits [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/191.py)
 + **Day 14 Bit Manipulation**
   + 190\. Reverse Bits
   + 136\. Single Number
