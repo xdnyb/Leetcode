@@ -59,5 +59,5 @@
   + 231\. Power of Two [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/231.py)
   + 191\. Number of 1 Bits [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/191.py)
 + **Day 14 Bit Manipulation**
-  + 190\. Reverse Bits
+  + 190\. Reverse Bits [Solution](https://github.com/xdnyb/Leetcode/blob/main/Problems/190.py)
   + 136\. Single Number
